@@ -80,7 +80,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/FaceMaskDetection-CNN.git
+git clone https://github.com/yestto/FaceMaskDetection-CNN.git
 cd FaceMaskDetection-CNN
 Install dependencies:
 
